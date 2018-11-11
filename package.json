@@ -1,0 +1,25 @@
+{
+  "name": "cap-codebase",
+  "version": "1.0.0",
+  "description": "A Social Network For Aimed At Making Finance Fun Again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoanyomba123/CAP.git"
+  },
+  "keywords": [
+    "CAP",
+    "Social",
+    "Network",
+    "Finance"
+  ],
+  "author": "Yoan Yomba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoanyomba123/CAP/issues"
+  },
+  "homepage": "https://github.com/yoanyomba123/CAP#readme"
+}
