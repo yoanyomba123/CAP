@@ -1,24 +1,24 @@
-Social Network (Fin-Social Network)
+# Social Network (Fin-Social Network)
 
-Goal:
+## Goal:
 - Create Open Source Software For Others To Leverage
 
-Purpose
+## Purpose
 
 The primary goal is to provide users with as much information and content to
 help drive their investment needs. When people think of Fin-Social, they should
 imagine a sleek easy to user interface similar to StockTwits & Scoutfin as well
 as having news information similar to that of Bloomberg and SeekingAlpha. 
 
-Features
-(Research Arm & Analytics)
+## Features
+#### (Research Arm & Analytics)
 - User access to fundamentals, stock prices, news, and research
 - Allow Users the ability to conduct professional stock research on the web
   free of charge (Professional-grade investor tools)
 - User Access to white papers and academic research 
 - Provide user access to jupyter notebooks on the web to perform research
 
-(Social Network)
+#### (Social Network)
 - User Authentication & Secure Data Storage
     - User Sign Up (Regular + Facebool, Google, etc ...)
     - User Sign in 
@@ -28,11 +28,10 @@ Features
 - User messaging functionality
     - Support for User to User and User to Users (Group Messaging) 
 
-(Potential Monetary Aspects To This)
+(Potential Monetary Endeavors)
 - Robinhood Account Access & Trade Through System
 - Portfolio Analytics & Predictive Service 
 - Ads
-
 
 # Development Steps
 
