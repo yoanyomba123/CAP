@@ -121,8 +121,11 @@ as having news information similar to that of Bloomberg and SeekingAlpha.
 14. Sign up for competitions
 15. Create Social Media Accounts
 16. Create prototypes
-17. Get A Team Together (Ali - Business & Charmi - Business + Marketing etc...)
 
+## Team 
+- Who I Would Like To Potentially Work With 
+1. Ali Mrania (Business/Investor Relations + C-Level)
+2. Charmi Patel (Business/Marketing + C-Level)
 
 ## Learning Material 
 ### Business Reading
