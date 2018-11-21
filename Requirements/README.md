@@ -35,14 +35,12 @@ Features
 
 
 # Development Steps
-##  Read AMAP About Large Scale Application Development & Startups
-### Learn NodeJs, Express, (MongoDB/Mongoose, GraphQL, MYSQL/Postgre), Amazon Web Services
 
 1. Create Wireframes + Generate Survey/Perform User Research (2 Months) 
-2A. Consult With Innovators & Smartest People You Know (1 Month)
+2. A. Consult With Innovators & Smartest People You Know (1 Month)
     - Shihao, Dr. Kandasamy, Dr. Shackleford, Keyur, Aarron From GS, Ali, Uncle
       Lucien, Sean
-2B. Build Promo Company Site (About, Team, etc ...) (Winter Break)
+2. B. Build Promo Company Site (About, Team, etc ...) (Winter Break)
 3. Architect the backend (Server, Containers, Databases, Cloud,  etc...) (3
    Months)
 4. Start Backend Development (6 Months - 1 Year)
@@ -57,10 +55,10 @@ Features
 
 
 # Business Steps 
-1A. Industry Research 
+1. A. Industry Research 
     - Know Everything about market, competitors, and business strategy
     - Product and Customers Focused
-1B. Devise A Concept
+1. B. Devise A Concept
     - The Concept
         - What big problem are we solving?
         - What do you know that no one else does?
