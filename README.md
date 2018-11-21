@@ -66,10 +66,6 @@ Check out [this guide](https://github.com/nitishdayal/cra_closer_look) for an ov
 
 The tradeoff is that **these tools are preconfigured to work in a specific way**. I
 
-## Acknowledgements
-
-Grateful to the following individuals for their aid throughout the development process
-
 ## License
 
 CAP is designed with the hope of eventually being an open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
