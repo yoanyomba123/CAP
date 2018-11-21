@@ -1,8 +1,8 @@
-# CAP | We Make Finance Easier
+# FIN-AM | We Make Finance Easier
 
-## What Is CAP 
+## What Is FINAM
 
-CAP is a  financial  social  networking  platform  that  allows  for  individuals  to  collaborate  and  network  with  other  investors  alike. The driving value proposition provided by CAP is to serve  as  a  mediator  between  the  investor  and  their  broker  by  providing the user with greater access to their investment data as well as flexibility in interactions with their broker. They  can  then  use  it  as  a  way  of  communicating  with  other  investors  to  gain  a  step  up  in  the  market.  Communication  between  individuals  specific to alpha extraction from the market  is  nothing  new,  but  the  current    rate  of  technological innovation  leaves  an  enormous  amount  of  opportunity  in  improving  those  forms  of  communication  and  the  various  bridges  between  participants  in  the  market.  
+FINAM is a  financial  social  networking  platform  that  allows  for  individuals  to  collaborate  and  network  with  other  investors  alike. The driving value proposition provided by FINAM is to serve  as  a  mediator  between  the  investor  and  their  broker  by  providing the user with greater access to their investment data as well as flexibility in interactions with their broker. They  can  then  use  it  as  a  way  of  communicating  with  other  investors  to  gain  a  step  up  in  the  market.  Communication  between  individuals  specific to alpha extraction from the market  is  nothing  new,  but  the  current    rate  of  technological innovation  leaves  an  enormous  amount  of  opportunity  in  improving  those  forms  of  communication  and  the  various  bridges  between  participants  in  the  market.  
 
 Our  mission  is  to  provide  users  with  a  social  platform  that  centralizes  research  and  external/internal  investment  data  to  promote  social  investment  activity.    The  company  aims  to  become  the  primary  social  investment  platform  for  market  participants  in  the  United  States.  We  plan  to  become  industry  leaders  in  customer  loyalty,  data  visualization  and  engagement.  Our  philosophy  is  to  bring  influential  power  back  to  the  people  and  away  from  the  banks.
 

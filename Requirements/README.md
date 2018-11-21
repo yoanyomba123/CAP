@@ -1,4 +1,4 @@
-# Social Network (Fin-Social Network)
+# Social Network (Fin-Am)
 
 ## Goal:
 - Create Open Source Software For Others To Leverage
