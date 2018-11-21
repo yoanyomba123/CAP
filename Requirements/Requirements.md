@@ -62,52 +62,52 @@ Features
     - Product and Customers Focused
 1B. Devise A Concept
     - The Concept
-        • What big problem are we solving?
-        • What do you know that no one else does?
-        • What is one big bet you are making?
-        • How big is the pain?
-        • Revolutionary or incremental?
+        - What big problem are we solving?
+        - What do you know that no one else does?
+        - What is one big bet you are making?
+        - How big is the pain?
+        - Revolutionary or incremental?
     - Product Market Fit
         Does anyone care?
-        • Who are your prospects?
-        • What are their needs?
-        • Are you making something people want/need?
-        • How are you validating the right assumptions?
+        - Who are your prospects?
+        - What are their needs?
+        - Are you making something people want/need?
+        - How are you validating the right assumptions?
     - Market 
-        How big is the market?
-        • Growing or stagnant?
-        • Is it mature?
+        - How big is the market?
+        - Growing or stagnant?
+        - Is it mature?
     - Team 
-        • Previous experience?
-        • Distinctive competence?
-        • Ability to execute and deliver?
-        • Worked together before?
+        - Previous experience?
+        - Distinctive competence?
+        - Ability to execute and deliver?
+        - Worked together before?
     - Competitive Advantage
-        • What is your differentiation?
-        • Highly different?
-        • Easily copied
-        • Sustainable?
-        • Can you create a monopoly?
-        • Do you have and unfair advantage?
+        - What is your differentiation?
+        - Highly different?
+        - Easily copied
+        - Sustainable?
+        - Can you create a monopoly?
+        - Do you have and unfair advantage?
     - Business Model
-        • Who is your ideal customer?
-        • How can you read them?
-        • What do you tell them?
-        • Clear messengering/positioning?
-        • Effective Marketing?
-        • Does your pricing hold up?
+        - Who is your ideal customer?
+        - How can you read them?
+        - What do you tell them?
+        - Clear messengering/positioning?
+        - Effective Marketing?
+        - Does your pricing hold up?
     - Technology
-        • What is your secret sauce?
-        • Your technological brilliance?
-        • Stability?
-        • Security/Privacy?
-        • Is your IP Protected?
-        • Do you have documentation?
+        - What is your secret sauce?
+        - Your technological brilliance?
+        - Stability?
+        - Security/Privacy?
+        - Is your IP Protected?
+        - Do you have documentation?
     - Success
-        • Initial stickiness?
-        • Retention?
-        • Would people recommend you?
-        • What is you net promotion score?
+        - Initial stickiness?
+        - Retention?
+        - Would people recommend you?
+        - What is you net promotion score?
 2. Write a business plan and marketing plan
 3. Find advisors
 4. Register website domain name
