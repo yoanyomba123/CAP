@@ -36,6 +36,7 @@ as having news information similar to that of Bloomberg and SeekingAlpha.
 # Development Steps
 
 1. Create Wireframes + Generate Survey/Perform User Research (2 Months) 
+   A. Figma & invisionapp
 2. A. Consult With Innovators & Smartest People You Know (1 Month)
     - Shihao, Dr. Kandasamy, Dr. Shackleford, Keyur, Aarron From GS, Ali, Uncle
       Lucien, Sean
