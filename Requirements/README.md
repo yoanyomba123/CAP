@@ -126,7 +126,6 @@ as having news information similar to that of Bloomberg and SeekingAlpha.
 ## Team 
 ###  Who I Would Like To Potentially Work With 
 1. Ali Mrania (Business/Investor Relations + C-Level)
-2. Charmi Patel (Business/Marketing + C-Level)
 
 ## Learning Material 
 ### Business Reading
